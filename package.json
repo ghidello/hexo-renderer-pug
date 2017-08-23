@@ -1,6 +1,6 @@
 {
   "name": "hexo-renderer-pug",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A pug renderer for hexo",
   "main": "index.js",
   "repository": {
